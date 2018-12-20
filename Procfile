@@ -1,4 +1,4 @@
-worker : python meme.py
+worker: python meme.py
 
 
 
